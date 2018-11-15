@@ -19,7 +19,7 @@
     "require": {
         "php": ">=7.0",
 
-        "kphoen/rulerz": "~0.17,>=0.19.3"
+        "kphoen/rulerz": ">=1.0"
     },
     "require-dev": {
         "phpspec/phpspec": "~2.2",
